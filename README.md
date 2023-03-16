@@ -11,17 +11,15 @@
 
 ![demo_ContextMap (1)](https://user-images.githubusercontent.com/78800255/217425900-a11b727c-9cdc-4eff-9ba9-b077cd2674fd.png)
 
-## Relaciones entre los contextos - actualizada
+## Mapa de contextos - actualizada
 
 Se unifico en un mismo contexto ordenes para agilizar el desarrollo y la comunicación con los demás contextos.
 Se adapta el diseño a lo que corresponde una arquitectura de microservicios y no se deben tener un patrón de SharedKernel
 
 ![Screenshot 2023-03-15 at 10 56 46 PM](src-gen/TO_BE_ContextMap.png)
 
-Relaciones entre los contextos 
-
-![Screenshot 2023-02-07 at 10 56 46 PM](https://user-images.githubusercontent.com/78800255/217429349-ba73ea27-b5ee-4b02-8980-9256b4de993e.png)
-
+### Relaciones entre los contextos 
+![Captura de pantalla 2023-03-15 a la(s) 9 41 55 p m](https://user-images.githubusercontent.com/78803000/225496450-0b95da90-d688-4d0a-9a2c-7e7f05d14fab.png)
 
 *Contextos acotados* 
 
