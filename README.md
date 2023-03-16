@@ -11,7 +11,7 @@
 
 ![demo_ContextMap (1)](https://user-images.githubusercontent.com/78800255/217425900-a11b727c-9cdc-4eff-9ba9-b077cd2674fd.png)
 
-##Relaciones entre los contextos - actualizada
+## Relaciones entre los contextos - actualizada
 
 Se unifico en un mismo contexto ordenes para agilizar el desarrollo y la comunicación con los demás contextos.
 Se adapta el diseño a lo que corresponde una arquitectura de microservicios y no se deben tener un patrón de SharedKernel
