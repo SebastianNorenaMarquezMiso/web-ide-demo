@@ -23,7 +23,7 @@ ContextMap DDDSampleMap {
 
 
 BoundedContext OrdenesContext {
-	domainVisionStatement ="Donde se crean las ordenes de entrega"
+	domainVisionStatement ="Donde se crean las ordenes de entrega y actualiza el estado de una orden"
     Module ordenes {
         basePackage = se.citerus.dddsample.domain.model
 
